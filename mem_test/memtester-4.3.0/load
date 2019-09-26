@@ -1,0 +1,4 @@
+#!/bin/sh
+# WARNING: This file was auto-generated. Do not edit!
+main="$1"; shift
+exec /usr/local/arm/gcc-buildroot-5.5.0-x86_64_arm-linux-gnueabi/bin/arm-buildroot-linux-gnueabi-gcc -s -o "$main" "$main".o ${1+"$@"}

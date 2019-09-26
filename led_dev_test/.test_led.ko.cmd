@@ -1,0 +1,1 @@
+cmd_/home/coder/liupenghui/work/led_dev_test/test_led.ko := arm-none-linux-gnueabi-ld -EL -r   --build-id -o /home/coder/liupenghui/work/led_dev_test/test_led.ko /home/coder/liupenghui/work/led_dev_test/test_led.o /home/coder/liupenghui/work/led_dev_test/test_led.mod.o

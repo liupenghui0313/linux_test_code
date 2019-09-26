@@ -1,0 +1,1 @@
+cmd_/home/coder/liupenghui/work/driver_test/first_driver/first_driver.ko := arm-none-linux-gnueabi-ld -EL -r  -T ../scripts/module-common.lds --build-id  -o /home/coder/liupenghui/work/driver_test/first_driver/first_driver.ko /home/coder/liupenghui/work/driver_test/first_driver/first_driver.o /home/coder/liupenghui/work/driver_test/first_driver/first_driver.mod.o
